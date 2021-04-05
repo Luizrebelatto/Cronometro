@@ -59,6 +59,13 @@ Acreditamos que com a união de todos, é possível realizar grandes feitos, ain
        
 
     Será exibido o IP para acesso.
+    
+## Logins / Senhas
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- beneficiario@admin.com / 1234
+- doador@admin.com / 1234
 
 
 ---

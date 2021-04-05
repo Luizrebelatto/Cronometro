@@ -3,9 +3,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-diagrama">Diagrama</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
 </p>
 
 <br>
@@ -38,7 +36,7 @@ Acreditamos que com a união de todos, é possível realizar grandes feitos, ain
 
 
 4) - Criar uma Virtual Env (para instalar as dependências):
-    Na pasta Raiz do Projeto, digitar:
+      Na pasta Raiz do Projeto, digitar:
     `python -m venv venv #` (comando para criar a venv).
     Será criada uma pasta chamada "venv".
 
@@ -68,4 +66,10 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Rocketseat 👋🏻 [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feitos by Squad 03👋🏻:
+-[Luiz Gabriel Rebelatto](https://www.linkedin.com/in/luiz-gabriel-rebelatto-bianchi-67097413b/)
+-[Isabela Duarte Moreno](https://www.linkedin.com/in/isabeladuartemoreno/)
+-[Ramon Vazquez Mastropaulo](https://www.linkedin.com/in/ramon-vazquez-mastropaulo-073921152/)
+-[Rodrigo Andrey](https://www.linkedin.com/in/rodrigo-andrey-silva-6742401a3/)
+-[Cristiene Menezes](https://www.linkedin.com/in/cristienemenezes/)
+-[Renata Cristina](https://www.linkedin.com/in/renatacristinasantos/)

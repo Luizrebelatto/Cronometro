@@ -58,16 +58,14 @@ Acreditamos que com a união de todos, é possível realizar grandes feitos, ain
 
     Será exibido o IP para acesso.
 
-A aplicação pode ser acessada em [`localhost:3333`](http://localhost:3333).
-
 ## 📄 Licença
 
--[Luiz Gabriel Rebelatto](https://www.linkedin.com/in/luiz-gabriel-rebelatto-bianchi-67097413b/)
--[Isabela Duarte Moreno](https://www.linkedin.com/in/isabeladuartemoreno/)
--[Ramon Vazquez Mastropaulo](https://www.linkedin.com/in/ramon-vazquez-mastropaulo-073921152/)
--[Rodrigo Andrey](https://www.linkedin.com/in/rodrigo-andrey-silva-6742401a3/)
--[Cristiene Menezes](https://www.linkedin.com/in/cristienemenezes/)
--[Renata Cristina](https://www.linkedin.com/in/renatacristinasantos/)
+- [Luiz Gabriel Rebelatto](https://www.linkedin.com/in/luiz-gabriel-rebelatto-bianchi-67097413b/)
+- [Isabela Duarte Moreno](https://www.linkedin.com/in/isabeladuartemoreno/)
+- [Ramon Vazquez Mastropaulo](https://www.linkedin.com/in/ramon-vazquez-mastropaulo-073921152/)
+- [Rodrigo Andrey](https://www.linkedin.com/in/rodrigo-andrey-silva-6742401a3/)
+- [Cristiene Menezes](https://www.linkedin.com/in/cristienemenezes/)
+- [Renata Cristina](https://www.linkedin.com/in/renatacristinasantos/)
 
 ---
 

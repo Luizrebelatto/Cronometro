@@ -29,8 +29,8 @@ Acreditamos que com a união de todos, é possível realizar grandes feitos, ain
 
 ## 🚀 Como executar
 
-1 - Baixar e Instalar Python 3.9.X (com PIP) (Adicionar no PATH)
-1 - Clone o repositório
+1) - Baixar e Instalar Python 3.9.X (com PIP) (Adicionar no PATH) - https://www.python.org/downloads/
+- Clone o repositório
 - Instale as dependências com `yarn`
 - Inicie o servidor com `yarn dev`
 

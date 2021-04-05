@@ -4,7 +4,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-login-/-senha">Login/Senha</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-login-e-senha">Login e Senha</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -61,7 +61,7 @@ Acreditamos que com a união de todos, é possível realizar grandes feitos, ain
 
     Será exibido o IP para acesso.
     
-## Logins / Senhas
+## 🚀 Login e Senha
 
 - Beneficiário
   <br>

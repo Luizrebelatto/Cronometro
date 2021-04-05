@@ -53,7 +53,9 @@ Acreditamos que com a união de todos, é possível realizar grandes feitos, ain
 7) - Inicializar Servidor Web Interno DJANGO.
 
     Após todas as dependências instaladas, para rodar o servidor web interno do Django. 
-    Na pasta raiz, digitar no terminal:`python manage.py runserver`
+    Na pasta raiz, digitar no terminal:
+    
+    `python manage.py runserver`
        
 
     Será exibido o IP para acesso.

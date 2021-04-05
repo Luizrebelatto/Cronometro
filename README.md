@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -64,7 +64,7 @@ Acreditamos que com a união de todos, é possível realizar grandes feitos, ain
 ---
 
 Feitos by Squad 03👋🏻:
-- [Luiz Gabriel Rebelatto](https://www.linkedin.com/in/luiz-gabriel-rebelatto-bianchi-67097413b/)
+- [Luiz Gabriel Rebelatto]DEV(https://www.linkedin.com/in/luiz-gabriel-rebelatto-bianchi-67097413b/)
 - [Isabela Duarte Moreno](https://www.linkedin.com/in/isabeladuartemoreno/)
 - [Ramon Vazquez Mastropaulo](https://www.linkedin.com/in/ramon-vazquez-mastropaulo-073921152/)
 - [Rodrigo Andrey](https://www.linkedin.com/in/rodrigo-andrey-silva-6742401a3/)

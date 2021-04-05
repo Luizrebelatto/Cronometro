@@ -63,7 +63,9 @@ Acreditamos que com a união de todos, é possível realizar grandes feitos, ain
 ## Logins / Senhas
 
 - Beneficiário
-  a
+  <br>
+  `beneficiario@admin.com`
+  `1234`
 - beneficiario@admin.com / 1234
 - doador@admin.com / 1234
 

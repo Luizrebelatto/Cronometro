@@ -62,8 +62,8 @@ Acreditamos que com a união de todos, é possível realizar grandes feitos, ain
     
 ## Logins / Senhas
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
+- Beneficiário
+  a
 - beneficiario@admin.com / 1234
 - doador@admin.com / 1234
 

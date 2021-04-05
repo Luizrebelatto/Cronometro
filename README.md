@@ -10,10 +10,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="Happy" src=".github/preview.png" width="100%">
-</p>
-
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -27,13 +23,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O NPS-NLW é uma aplicação que consiste em calcular o NPS da empresa. Nele fazemos o cadastro de usuários, cadastro de pesquisas, envio de e-mail para os usuários responderem as pesquisas de satisfação e com isso podemos realizar o cálculo do NPS.
+O projeto Educa.doe visa ajudar a diminuir as desigualdades sociais através do engajamento da própria sociedade. Somos uma organização sem fins lucrativos criada para permitir que cada cidadão possa protagonizar a mudança que deseja ver no cenário da educação brasileira.  
 
-Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da NLW. Aprendemos conceitos sobre o que é um API, como iniciar um projeto utilizando Typescript e Express para gerenciamento das rotas, TypeORM para manipulação dos dados, testes automatizados e envio de e-mail.
-
-## 🔶 Diagrama
-
-<img src="public/diagrama.png" alt="Diagrama da aplicação" />
+Acreditamos que com a união de todos, é possível realizar grandes feitos, ainda tenham início com pequenas ações. Doando materiais escolares para estudantes carentes, você está contribuindo para a permanência de muitos deles na escola. E muito mais do que isso: está criando uma nova realidade para o Brasil.  
 
 ## 🚀 Como executar
 

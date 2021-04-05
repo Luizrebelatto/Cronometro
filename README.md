@@ -3,7 +3,8 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-login-senha">Login/Senha</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -67,7 +68,7 @@ Acreditamos que com a união de todos, é possível realizar grandes feitos, ain
   Login:`beneficiario@admin.com`
   <br>
   Senha:`1234`
- - Doador
+- Doador
   <br>
   Login:`doador@admin.com`
   <br>

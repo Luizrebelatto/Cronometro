@@ -61,7 +61,7 @@ Acreditamos que com a união de todos, é possível realizar grandes feitos, ain
 
     Será exibido o IP para acesso.
     
-## 🚀 Login e Senha
+## ⌨️ Login e Senha
 
 - Beneficiário
   <br>

@@ -64,7 +64,7 @@ Acreditamos que com a união de todos, é possível realizar grandes feitos, ain
 ---
 
 Desenvolcido pelo Squad 03👋🏻:
-- [Luiz Gabriel Rebelatto](Dev)(https://www.linkedin.com/in/luiz-gabriel-rebelatto-bianchi-67097413b/)
+- (Dev)[Luiz Gabriel Rebelatto](https://www.linkedin.com/in/luiz-gabriel-rebelatto-bianchi-67097413b/)
 - [Isabela Duarte Moreno](https://www.linkedin.com/in/isabeladuartemoreno/)
 - [Ramon Vazquez Mastropaulo](https://www.linkedin.com/in/ramon-vazquez-mastropaulo-073921152/)
 - [Rodrigo Andrey](https://www.linkedin.com/in/rodrigo-andrey-silva-6742401a3/)

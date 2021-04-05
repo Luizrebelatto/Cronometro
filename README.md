@@ -64,12 +64,14 @@ Acreditamos que com a união de todos, é possível realizar grandes feitos, ain
 
 - Beneficiário
   <br>
-  `beneficiario@admin.com`
-  `1234`
-- beneficiario@admin.com / 1234
-- doador@admin.com / 1234
-
-
+  Login:`beneficiario@admin.com`
+  <br>
+  Senha:`1234`
+ - Doador
+  <br>
+  Login:`doador@admin.com`
+  <br>
+  Senha:`1234`
 ---
 
 Desenvolvido pelo Squad 03👋🏻:
